@@ -1,0 +1,7 @@
+//第一个程序一定是这样的
+# include <stdio.h>
+int main()
+{
+  printf("Hello,Word!");
+  return 0;
+}
